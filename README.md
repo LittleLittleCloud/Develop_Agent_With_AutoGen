@@ -1,1 +1,1 @@
-## Developing AI Agents using AutoGen
+## Develop AI Agents using AutoGen
