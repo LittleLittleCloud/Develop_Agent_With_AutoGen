@@ -17,6 +17,10 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-### Notebooks
-- [Hello World](notebooks/HelloWorld.ipynb): Create your first AutoGen agent
-
+### Notebooks (Please comment)
+- [x] [Hello World](HelloWorld.ipynb): Create your first AutoGen agent
+- [ ] [Tool call, code execution and multi-modal]: Based on what already implemented in the first example, extend the assistant agent with code execution, tool call and multi-modal capabilities
+- [ ] Human in the loop: Based on previous examples, add human in the loop to chat with the agent
+- [ ] Multi-agent: Based on previous examples, add multiple agents with different characteristics
+- [ ] HandOff: Based on previous examples, add handoff capabilities to transfer the conversation to a human agent
+ 
