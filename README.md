@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 ### Notebooks (Please comment)
 - [x] [Hello World](HelloWorld.ipynb): Create your first AutoGen agent
 - [x] [Tool call and multi-modal](./ToolCall%20and%20MultiModa.ipynb): Based on what already implemented in the first example, extend the assistant agent with tool call and multi-modal capabilities
-- [ ] Human in the loop: Based on previous examples, add human in the loop to chat with the agent
-- [ ] Multi-agent: Based on previous examples, add multiple agents with different characteristics
+- [x] Human in the loop: Based on previous examples, add human in the loop to chat with the agent
+- [x] Multi-agent Group Chat: Based on previous examples, add multiple agents with different characteristics
 - [ ] HandOff: Based on previous examples, add handoff capabilities to transfer the conversation to a human agent
  
