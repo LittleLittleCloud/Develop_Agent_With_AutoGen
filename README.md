@@ -18,7 +18,7 @@ source venv/bin/activate
 pip3 install -r requirements.txt
 ```
 
-### Notebooks (Order matters here)
+### Notebooks
 - [x] [Hello World](HelloWorld.ipynb): Create your first AutoGen agent. We use this notebook to walk through AutoGen primitives (agent, agent runtime, message handlers) as well as helping student onboard to OpenAI account/setting up python environment.
 - [x] [Human in the loop](./HumanInTheLoop.ipynb) Add human user to the conversation. We extend the hello world example from single-agent to two agent conversation by introducing user agent.
 - [x] [Tool call](./ToolCall%20and%20MultiModa.ipynb): We use this notebook to show how to introduce tool call to agent.
