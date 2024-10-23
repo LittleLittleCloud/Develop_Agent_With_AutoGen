@@ -43,7 +43,6 @@ You have two options to set the `OPENAI_API_KEY` environment variable. Here's Op
     echo $OPENAI_API_KEY
     ```
 
-The value of your API key should be the resulting output.
 
 
 # Install AutoGen packages
@@ -52,3 +51,6 @@ The value of your API key should be the resulting output.
 # Working with AutoGen Studio
 1. [AutoGen Studio - Getting Started](https://microsoft.github.io/autogen/0.2/docs/autogen-studio/getting-started)
 2. [Using AutoGen Studio](https://microsoft.github.io/autogen/0.2/docs/autogen-studio/usage)
+
+
+### Note: Use separate python environments for AutoGen development and AutoGen-Studio setup. AutoGen-Studio better works with python 3.11 and above.
